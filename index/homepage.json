@@ -1,0 +1,206 @@
+categories[
+    {
+        "name": "kurtas",
+        "id": "1",
+      
+        
+    },
+    {
+        "name": "tops",
+        "id": "2",
+        
+    },
+    {
+        "name": "dresses",
+        "id": "3",
+        
+    },
+    {
+        "name": "sarees",
+        "id": "4",
+       
+    },
+    {
+        "name": "suits",
+        "id": "5",
+       
+    },
+    {
+        "name": "bottoms",
+        "id": "6",
+       
+    }
+]
+slider & discount[
+    {
+        "name": "buy 2 get 1 free",
+        "id": "b2g1",
+        
+    },
+    {
+        "name": "grand festive sale ",
+        "id": "40-80",
+        
+    },
+    {
+        "name": "chichest of all",
+        "id": "uptp60",
+       
+    },
+    {
+        "name": "love and light ",
+        "id": "L&l",
+       
+    },
+    {
+        "name": "the coolest deal",
+        "id": "on#all",
+       
+    }
+]
+styles & deaigners[
+    {
+        "name": "shivangi shekhewat",
+        "designer id": "D1",
+       
+    },
+    [
+        {
+            "name": "brand edit",
+            "designer id": "D1",
+            
+        },
+        {
+            "name": "",
+            "designer id": "D1",
+          
+    ]
+    {
+        "name": "divya",
+        "designer id": "D2",
+        
+    },
+    [
+        {
+            "name": "suit set",
+            "designer id": "D2",
+            
+        },
+        {
+            "name": "festive edit",
+            "designer id": "D2",
+            
+        },
+        {
+            "name": "floral fun",
+            "designer id": "D2",
+           
+        },
+        {
+            "name": "partywear kurta skirt set",
+            "designer id": "D2",
+           
+        },
+        {
+            "name": "zari worked pant suit",
+            "designer id": "D2",
+            
+        }
+    ],
+    {
+        "name": "nikky",
+        "designer id": "D3",
+       
+    },
+    [
+        {
+            "name": "festive anarkali suit",
+            "designer id": "D3",
+           
+        },
+        {
+            "name": "comfy yet chic",
+            "designer id": "D3",
+          
+        },
+        {
+            "name": "dailywear churidar suit",
+            "designer id": "D3",
+            
+        },
+        {
+            "name": "stylish yt comfy",
+            "designer id": "D3",
+           
+        },
+        {
+            "name": "comfy pant suit",
+            "designer id": "D3",
+           
+        }
+    ],
+    {
+        "name": "kriti",
+            "designer id": "D4",
+           
+    },
+    [
+        {
+            "name": "unstitched soiree",
+            "designer id": "D4",
+            
+        },
+        {
+            "name": "embroidary suit",
+            "designer id": "D4",
+           
+        },
+        {
+            "name": "steal eorthy straight pant",
+            "designer id": "D4",
+            
+        },
+        {
+            "name": "chicest churidar suit",
+            "designer id": "D4",
+           
+        },
+        {
+            "name": "blue bliss",
+            "designer id": "D4",
+           
+        }
+    ],
+    {
+        "name": "DIKSHA HARIT",
+        "designer id": "D4",
+         
+    },
+    [
+        {
+            "name": "Chic Finds This Way",
+            " designer id": "D5",
+            
+        },
+        {
+            "name": "I Am Convinced",
+            " designer id": "D5",
+           
+        },
+        {
+            "name": "Shop These Tops",
+            "designer id": "D5",
+           
+        },
+        {
+            "name": "Shop These Tops",
+            "designer id": "D5",
+           
+        },
+        {
+            "name": "Statement Overall Prints",
+            "designer id": "D5",
+           
+        }
+    ],
+]
